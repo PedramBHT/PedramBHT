@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pedram
+- Programmer and Pentester
+- How to reach me : pbhtash@gmail.com
