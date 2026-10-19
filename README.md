@@ -73,9 +73,9 @@ I enjoy building practical infrastructure and security tools, exploring Linux in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff334f&icon_color=ff334f&text_color=e0e0e0" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PedramBHT&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff334f&icon_color=ff334f&text_color=e0e0e0" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff334f&text_color=e0e0e0" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedramBHT&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff334f&text_color=e0e0e0" alt="Most used programming languages" />
 
 </div>
 
