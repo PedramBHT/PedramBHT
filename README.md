@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/cc85dfd3-1885-4970-a096-3c094ea22ec1" width="100%" alt="Cyberpunk glitch animation" />
 
-# `root@YOUR_USERNAME:~$ whoami`
+# `root@PedramBHT:~$ whoami`
 
 ### `Cybersecurity • Networking • Cloud & DevOps`
 
