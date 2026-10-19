@@ -68,28 +68,3 @@ I enjoy building practical infrastructure and security tools, exploring Linux in
 | `AI × IDS` | Exploring deep learning and LLM-based approaches to intrusion detection. |
 
 > More experiments, infrastructure projects, and security research are in progress.
-
-### `// 04. GITHUB_METRICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PedramBHT&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff334f&icon_color=ff334f&text_color=e0e0e0" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedramBHT&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff334f&text_color=e0e0e0" alt="Most used programming languages" />
-
-</div>
-
-### `// 05. CONNECT`
-
-<div align="center">
-
-```text
-[ CONNECTION ESTABLISHED ]
-[ STATUS: BUILDING SOMETHING INTERESTING ]
-```
-
-**Explore my repositories.**
-
-<sub>ACCESS GRANTED // END OF TRANSMISSION</sub>
-
-</div>
